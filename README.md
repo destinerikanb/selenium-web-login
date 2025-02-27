@@ -20,14 +20,16 @@ This project is a **Selenium Test Automation Framework** using **Java** and **Te
    cd your-repo
    ```  
 2️⃣ Open the project in IntelliJ IDEA  
-3️⃣ Install dependencies  
-- Add Selenium, TestNG, and other required libraries to the pom.xml (for Maven users)  
-- Or manually add the JAR files to the project's classpath  
+3️⃣ Install dependencies
 
-4️⃣ Run the tests via TestNG Runner or execute:  
-    ```sh
-    mvn test
-    ```
+- Add Selenium, TestNG, and other required libraries to the pom.xml (for Maven users)
+- Or manually add the JAR files to the project's classpath
+
+4️⃣ Run the tests via TestNG Runner or execute:
+
+   ```sh
+   mvn test
+   ``` 
 ---
  
 ## 📸 Screenshots & Reports
